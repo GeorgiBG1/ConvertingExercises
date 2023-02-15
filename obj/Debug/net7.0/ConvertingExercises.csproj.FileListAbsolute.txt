@@ -1,0 +1,15 @@
+E:\Visual Studio proekti\ConvertingExercises\bin\Debug\net7.0\ConvertingExercises.exe
+E:\Visual Studio proekti\ConvertingExercises\bin\Debug\net7.0\ConvertingExercises.deps.json
+E:\Visual Studio proekti\ConvertingExercises\bin\Debug\net7.0\ConvertingExercises.runtimeconfig.json
+E:\Visual Studio proekti\ConvertingExercises\bin\Debug\net7.0\ConvertingExercises.dll
+E:\Visual Studio proekti\ConvertingExercises\bin\Debug\net7.0\ConvertingExercises.pdb
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ConvertingExercises.csproj.AssemblyReference.cache
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ConvertingExercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ConvertingExercises.AssemblyInfoInputs.cache
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ConvertingExercises.AssemblyInfo.cs
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ConvertingExercises.csproj.CoreCompileInputs.cache
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ConvertingExercises.dll
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\refint\ConvertingExercises.dll
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ConvertingExercises.pdb
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ConvertingExercises.genruntimeconfig.cache
+E:\Visual Studio proekti\ConvertingExercises\obj\Debug\net7.0\ref\ConvertingExercises.dll
